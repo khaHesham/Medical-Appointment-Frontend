@@ -21,3 +21,11 @@ This project is the frontend for a medical appointment booking system. It provid
     ```
 
 4. Open your browser and navigate to `http://localhost:3000`.
+
+
+
+### Demo:
+
+
+https://github.com/user-attachments/assets/02800ae8-2814-4674-b884-bd5cf14df04b
+
